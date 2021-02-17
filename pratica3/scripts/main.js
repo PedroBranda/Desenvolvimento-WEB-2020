@@ -1,3 +1,5 @@
+//Pedro Henrique Brandalise da Silva
+
 //Variável local para imagem.
 let myImg = document.querySelector('img');
 
